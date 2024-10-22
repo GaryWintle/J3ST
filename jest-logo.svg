@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.66 13.38">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #8dc63f;
+      }
+
+      .cls-3 {
+        fill: #92278f;
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        font-family: ScriptoramaMarkdownJF-Regular, ScriptoramaMarkdownJF;
+        font-size: 12px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="head">
+    <text class="cls-4" transform="translate(.23 10.2)"><tspan class="cls-2" x="0" y="0">J</tspan><tspan class="cls-3" x="6.32" y="0">3</tspan><tspan class="cls-1" x="13.08" y="0">ST</tspan></text>
+  </g>
+</svg>
