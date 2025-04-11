@@ -1,0 +1,10 @@
+my-website
+├── index.html
+├── css
+│   ├── style.css
+│   └── normalize.css
+├── js
+│   └── main.js
+├── assets
+│   └── fonts
+└── README.md
